@@ -1,2 +1,3 @@
-# manyfrom
-Flights lookup tool that lets you search by many origins at once.
+# gofrom
+
+a [Sails](http://sailsjs.org) application
